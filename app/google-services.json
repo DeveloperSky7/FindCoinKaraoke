@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682517343983",
+    "project_id": "findcoinsingroom",
+    "storage_bucket": "findcoinsingroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682517343983:android:4cabe4cc563feb61a6351a",
+        "android_client_info": {
+          "package_name": "org.seokhwan.findcoinsingroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682517343983-e73ap97bm6s1pf199d0pjsq0uofn31q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDerU8k7roeEqfWeSIp4uO_RjxDpEcf7sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682517343983-e73ap97bm6s1pf199d0pjsq0uofn31q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
